@@ -1,3 +1,4 @@
+//WAP to find the 2nd minimum element from a BST.
 #include <stdio.h>
 #include <stdlib.h>
 
@@ -37,18 +38,6 @@ struct node *insert(struct node *node, int data)
         return node;
     }
 }
-
-// int minValue(struct node *node)
-// {
-//     struct node *current = node;
-
-//     while (current->left != NULL)
-//     {
-//         current = current->left;
-//     }
-//     return (current->data);
-// }
-
 int Successor(Node *root)
 {
     while (root->left)
