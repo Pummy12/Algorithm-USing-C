@@ -1,6 +1,6 @@
 /*
 
-1.WAP for Activity Selection
+WAP for Activity Selection using greedy
 1906261 Pummy Jha
 
 */
