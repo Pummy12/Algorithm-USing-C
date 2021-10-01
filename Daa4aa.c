@@ -1,3 +1,5 @@
+// WAP to implement the merge sort algorithm and measure the time for various input samples.
+//Eg: 4 5 2 1 7 9 sorts to 1 2 4 5 7 9
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
