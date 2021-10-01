@@ -1,5 +1,6 @@
 /*WAP to implement the max-heap and min-heap to sort to follwing nos. using heapsort:
 22, 88, 45, 9, 1 -9, 2, 56, 14.*/
+
 #include <stdio.h>
 #include <time.h>
 void swap(int* a, int* b)
