@@ -1,10 +1,5 @@
+//fractional knapsack problem
 #include <stdio.h>
-
-// typedef struct items
-// {
-//    float profit;
-//    float weight;
-// }item;
 
 void sort(int num, float weight[], float profit[], float capacity, float ratio[])
 {
