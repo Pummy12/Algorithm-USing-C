@@ -1,3 +1,5 @@
+Write a program to implement recursive solution to the Tower of Hanoi puzzle and display the computation time.
+
 #include <stdio.h>
 #include <time.h>
 
