@@ -1,3 +1,4 @@
+WAP to sort half of an array with n elements with INSERTION sort and  other half with MERGE sort. The two  subarrays that will be produced will be combined through Merge sort technique to produce the final sorted array. Array size = n. Also mention the time complexity in your solution.
 #include <stdio.h>
 #include <stdlib.h>
 
