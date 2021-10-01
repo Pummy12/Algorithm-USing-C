@@ -1,3 +1,5 @@
+/*Write a program using a function for computing floor(√n) for any positive integer.Besides
+assignment and comparison, your algorithm may only use the four basic arithmetic operations.*/
 #include <stdio.h>
 int sqrtSearch(int low, int high, int N)
 {
