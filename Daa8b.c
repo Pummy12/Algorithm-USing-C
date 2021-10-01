@@ -1,3 +1,4 @@
+/* For a given array : 99, 1, 5, 8, 75, 0, 665, 1, 0, 9, 1,  2, 5, 32, 67. Sort the first half using normal quicksort. Second half using Randomized quick sort. Sort the final result using Randomized quick sort. */
 #include <stdio.h>
 #include <stdlib.h>
 void swap(int *a, int *b)
