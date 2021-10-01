@@ -1,4 +1,4 @@
-//Q1. For a given array : 99, 1, 5, 8, 75, 0, 665, 1, 0, 9 sort using the quick sort. You may use the Rand function to increase the input size andmeasure the time for different sizes.
+//For a given array : 99, 1, 5, 8, 75, 0, 665, 1, 0, 9 sort using the quick sort. You may use the Rand function to increase the input size andmeasure the time for different sizes.
 
 #include<stdio.h>
 #include <time.h>
