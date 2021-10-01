@@ -1,4 +1,4 @@
-//a)Consecutive integer checking algo
+//a)Consecutive integer checking algorithm
 #include<stdio.h>
 void main()
 {
