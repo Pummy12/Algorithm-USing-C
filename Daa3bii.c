@@ -1,4 +1,4 @@
-//b)middle school procedure
+//b) middle school procedure
 
 #include<stdio.h>
 void main()
