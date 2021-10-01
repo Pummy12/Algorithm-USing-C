@@ -1,3 +1,4 @@
+//WAP to find the first K minimum elements from N unsorted elements. Also for remaining (N-K) elements print in descending order.
 #include<stdio.h>
 void bubbleSort(int arr[], int n)
 	{
