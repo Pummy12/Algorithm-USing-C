@@ -1,3 +1,4 @@
+//Activity selection using dynamic programming approach
 #include<stdio.h>
 #include <string.h>
 int n;
