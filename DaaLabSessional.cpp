@@ -1,3 +1,4 @@
+//Given 5 matrices: A1(10x100), A2(100x20), A3(20x300), A4(300x40), A5(40x500). Find the optimal cost C and the partition K for the following i,j combinations: (30) a) i=1, j=5 b) i=2, j=4 c) i=1, j=3
 #include <limits.h>
 #include <stdio.h>
  
